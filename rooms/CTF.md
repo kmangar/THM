@@ -14,21 +14,52 @@ Paste this in cyber chef and covert from hex
  **THM{4u70b07_r0ll_0u7}** 
 
 </details>
+
 2. Easter 2
+
+
 3. Easter 3
+
+
 4. Easter 4
+
+
 5. Easter 5
+
+
 6. Easter 6
+
+
 7. Easter 7
+
+
 8. Easter 8
+
+
 9. Easter 9
+
+
 10. Easter 10
+
+
 11. Easter 11
+
+
 12. Easter 12
+
+
 13. Easter 13
+
+
 14. Easter 14
+
+
 15. Easter 15
+
+
 16. Easter 16  
+
+
 <br>
 go to the [target ip]/game2/  
 Run the below JavaScript in the console to click all buttons
