@@ -2,7 +2,18 @@
 
 ## Easter egg
 
-1. Easter 1
+1. Easter 1  
+Ran nmap scan and noticed there was a http-robots.txt:  
+went to robots.txt and there were numbers: 
+45 61 73 74 65 72 20 31 3a 20 54 48 4d 7b 34 75 37 30 62 30 37 5f 72 30 6c 6c 5f 30 75 37 7d  
+Paste this in cyber chef and covert from hex
+
+<details>
+  <summary><strong>Answer</strong></summary>
+ 
+ **THM{4u70b07_r0ll_0u7}** 
+
+</details>
 2. Easter 2
 3. Easter 3
 4. Easter 4
