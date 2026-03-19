@@ -17,8 +17,23 @@ Paste this in cyber chef and covert from hex
 
 2. Easter 2
 
+<details>
+  <summary><strong>Answer</strong></summary>
+ 
+ **s** 
 
-3. Easter 3
+</details>
+
+3. Easter 3  
+performed a dirb on the target and saw /login  
+Inspect the HTML content 
+
+<details>
+  <summary><strong>Answer</strong></summary>
+ 
+ **THM{y0u_c4n'7_533_m3}** 
+
+</details>
 
 
 4. Easter 4
@@ -63,6 +78,7 @@ Paste this in cyber chef and covert from hex
 <br>
 go to the [target ip]/game2/  
 Run the below JavaScript in the console to click all buttons
+
 ```javascript
 // 1. Create one empty data object
 const combinedData = new URLSearchParams();
@@ -89,6 +105,7 @@ fetch(window.location.href, {
       document.write(html);
       document.close();
   });
+
 ```
 
 <details>
@@ -101,5 +118,19 @@ fetch(window.location.href, {
 17. Easter 17
 18. Easter 18
 19. Easter 19
+
+Performed a dirb on the target machine and found /small
+[Target Machine]/small
+
+<details>
+  <summary><strong>Answer</strong></summary>
+ 
+ **THM{700_5m4ll_3yy}** 
+
+</details>
+
+
+
+
 20. Easter 20
 
