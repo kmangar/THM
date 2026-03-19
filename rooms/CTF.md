@@ -19,6 +19,7 @@
 15. Easter 15
 16. Easter 16  
 <br>
+go to the [target ip]/game2/  
 Run the below JavaScript in the console to click all buttons
 ```javascript
 // 1. Create one empty data object
