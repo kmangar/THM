@@ -67,7 +67,8 @@ The server is listening on port 1337 via TCP. You can connect to it using Netcat
 
 
 ```python
-hex_string = input("Enter hex string: ")   # Take hex input from user
+# Take hex input from user
+hex_string = input("Enter hex string: ")   
 
 hex_encoded = hex_string
 
@@ -76,8 +77,8 @@ xored_original = bytes.fromhex(hex_encoded).decode('utf-8')
 def xor_encrypt(text):
     if len(text) < 5:
         raise ValueError("Input string must be at least 5 characters long.")
-
-    keys = ['T', 'H', 'M', '{','}']  # 4 keys for first 4 characters
+    # 4 keys for first 4 characters
+    keys = ['T', 'H', 'M', '{','}']  
 
     output = []
 
